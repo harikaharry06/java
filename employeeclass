@@ -1,0 +1,13 @@
+package javaproject;
+public class employee {
+String name = "Harry";
+int age = 25;
+String city ="Mumbai";
+public void display() {
+	System.out.println(name);
+	System.out.println(age);
+	System.out.println(city);
+}
+
+	}
+
